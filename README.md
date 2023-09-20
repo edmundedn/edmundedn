@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
   ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
   ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware&logoColor=F90)
 
